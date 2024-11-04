@@ -1,0 +1,3 @@
+/home/admin-lcyl/Bureau/BDT/BDTClient/build/CMakeFiles/bdt_client_prefinal.dir
+/home/admin-lcyl/Bureau/BDT/BDTClient/build/CMakeFiles/edit_cache.dir
+/home/admin-lcyl/Bureau/BDT/BDTClient/build/CMakeFiles/rebuild_cache.dir

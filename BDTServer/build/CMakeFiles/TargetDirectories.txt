@@ -1,0 +1,3 @@
+/home/admin-lcyl/Bureau/BDT/BDTServer/build/CMakeFiles/bdt_server_prefinal.dir
+/home/admin-lcyl/Bureau/BDT/BDTServer/build/CMakeFiles/edit_cache.dir
+/home/admin-lcyl/Bureau/BDT/BDTServer/build/CMakeFiles/rebuild_cache.dir

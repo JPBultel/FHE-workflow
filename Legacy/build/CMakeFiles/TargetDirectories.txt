@@ -1,0 +1,3 @@
+/home/admin-lcyl/Bureau/OpenFHEUser/build/CMakeFiles/bdt_server_with_treebuilder.dir
+/home/admin-lcyl/Bureau/OpenFHEUser/build/CMakeFiles/edit_cache.dir
+/home/admin-lcyl/Bureau/OpenFHEUser/build/CMakeFiles/rebuild_cache.dir
